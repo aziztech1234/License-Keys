@@ -1,7 +1,7 @@
 {
     "valid_keys": [
-        {"key": "TPNI-NBKle-iMbaU-d1lWq-cf7O1-0jA3n", "expiry_month": "2024-06"},
-        {"key": "TPNI-H7Wh0-mMWkm-sOadX-z1hxM-TxAta", "expiry_month": "2024-07"},
-        {"key": "TPNI-XTUGV-ArMMa-9KNv8-ntNYh-MQpEo", "expiry_month": "2024-08"}
+        {"key": "TPNI-NBKle-iMbaU-d1lWq-cf7O1-0jA3n", "expiry_month": "2025-06"},
+        {"key": "TPNI-H7Wh0-mMWkm-sOadX-z1hxM-TxAta", "expiry_month": "2025-07"},
+        {"key": "TPNI-XTUGV-ArMMa-9KNv8-ntNYh-MQpEo", "expiry_month": "2025-08"}
     ]
 }
