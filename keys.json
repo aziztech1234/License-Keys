@@ -21,5 +21,7 @@
     "30D-QET9-AR74-UZHN",
     "30D-33ML-EYB6-ZH6R"
   ],
-  "disabled_keys": []
+  "disabled_keys": [
+    "30D-ABCD-EFGH-IJKL"
+  ]
 }
