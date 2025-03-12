@@ -23,5 +23,27 @@
   ],
   "disabled_keys": [
     "30D-ABCD-EFGH-IJKL"
-  ]
+  ],
+  "hardware_bindings": {
+    "01D-M2D8-3Z1X-VVK3": null,
+    "30D-R34Z-4M6X-N3VQ": null,
+    "30D-XAYO-HNIR-8KM1": null,
+    "30D-CF0J-ECU3-DEWR": null,
+    "30D-U640-8X2Q-B3WK": null,
+    "30D-CV7X-EIJZ-QZYE": null,
+    "30D-G1ZV-K423-13K4": null,
+    "30D-KKJZ-OR37-TU8R": null,
+    "30D-D19I-F4TG-GY90": null,
+    "30D-MS6X-L42I-JX3G": null,
+    "30D-RXNA-OMMK-IVYF": null,
+    "30D-F7RV-A7C1-U95I": null,
+    "30D-E1TY-CONU-FY4X": null,
+    "30D-J1QG-VZY8-4GRI": null,
+    "30D-9IHI-XF75-7IT4": null,
+    "30D-YF4X-DFY1-IJ63": null,
+    "30D-2OR9-E10N-56WA": null,
+    "30D-DUMN-900R-5LS9": null,
+    "30D-QET9-AR74-UZHN": null,
+    "30D-33ML-EYB6-ZH6R": null
+  }
 }
